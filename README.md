@@ -1,2 +1,0 @@
-# Data-Analitycs
-My projects
