@@ -1,8 +1,8 @@
-# Maksim Sannikov's Portfolio
+# Liza Chesnokova's Portfolio
 
 Welcome to my portfolio!
 
-I am a passionate Data Scientist with a keen interest in extracting meaningful insights from data and applying machine learning techniques to solve real-world problems. This portfolio is a reflection of my journey in the field, highlighting my commitment to learning and professional growth.
+I am a researcher with international academic and practical experience in consumer behavior, digital marketing, and data analysis. Strong methodological foundation in statistics and programming (R, Python), supported by publications in leading journals. Experienced in designing experiments, advanced statistical analysis, and data processing using R, Python, and SQL. Engaged in interdisciplinary projects and consulting, showing initiative and results-driven approach. Multilingual professional fluent in English, Italian, French, and Russian.
 
 ## Table of Contents
 
@@ -18,8 +18,7 @@ I am a passionate Data Scientist with a keen interest in extracting meaningful i
 
 Interested in collaborating or learning more about my work? Feel free to reach out to me:
 
-- **Email:** mssannikov1@gmail.com
-- **University Email:** Maksim.Sannikov01@unicatt.it
-- **LinkedIn:** https://www.linkedin.com/in/mssannikov/
+- **Email:** chesnokovaelizaveta9@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/elizaveta-chesnokova/
 
 Thank you for visiting my portfolio. I look forward to connecting with you and exploring opportunities to bring data-driven solutions to new challenges.
